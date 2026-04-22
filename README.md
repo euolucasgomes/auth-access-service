@@ -221,7 +221,7 @@ Este projeto está sob a [licença MIT](LICENSE).
 
 **Lucas Gomes de Oliveira**
 
-- LinkedIn: *adicionar link*
-- GitHub: *adicionar link*
+- LinkedIn: https://www.linkedin.com/in/euolucasgomes/
+- GitHub: https://github.com/euolucasgomes/
 - Email: lucasgomescomp@hotmail.com
 

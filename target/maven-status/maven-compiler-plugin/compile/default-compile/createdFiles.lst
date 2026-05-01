@@ -1,5 +1,6 @@
 com\lucasgomes\auth_access_service\domain\model\User.class
-com\lucasgomes\auth_access_service\domain\model\UserRole.class
-com\lucasgomes\auth_access_service\interfaces\http\HealthController.class
 com\lucasgomes\auth_access_service\AuthAccessServiceApplication.class
 com\lucasgomes\auth_access_service\infrastructure\security\SecurityConfig.class
+com\lucasgomes\auth_access_service\application\usecase\CreateUserUseCase.class
+com\lucasgomes\auth_access_service\domain\model\UserRole.class
+com\lucasgomes\auth_access_service\interfaces\http\HealthController.class

@@ -2,5 +2,9 @@ C:\Users\lucas\OneDrive\Documentos\014 - PORTIFOLIO\auth-access-service\src\main
 C:\Users\lucas\OneDrive\Documentos\014 - PORTIFOLIO\auth-access-service\src\main\java\com\lucasgomes\auth_access_service\AuthAccessServiceApplication.java
 C:\Users\lucas\OneDrive\Documentos\014 - PORTIFOLIO\auth-access-service\src\main\java\com\lucasgomes\auth_access_service\domain\model\User.java
 C:\Users\lucas\OneDrive\Documentos\014 - PORTIFOLIO\auth-access-service\src\main\java\com\lucasgomes\auth_access_service\domain\model\UserRole.java
+C:\Users\lucas\OneDrive\Documentos\014 - PORTIFOLIO\auth-access-service\src\main\java\com\lucasgomes\auth_access_service\infrastructure\config\ApplicationConfig.java
 C:\Users\lucas\OneDrive\Documentos\014 - PORTIFOLIO\auth-access-service\src\main\java\com\lucasgomes\auth_access_service\infrastructure\security\SecurityConfig.java
 C:\Users\lucas\OneDrive\Documentos\014 - PORTIFOLIO\auth-access-service\src\main\java\com\lucasgomes\auth_access_service\interfaces\http\HealthController.java
+C:\Users\lucas\OneDrive\Documentos\014 - PORTIFOLIO\auth-access-service\src\main\java\com\lucasgomes\auth_access_service\interfaces\http\request\CreateUserRequest.java
+C:\Users\lucas\OneDrive\Documentos\014 - PORTIFOLIO\auth-access-service\src\main\java\com\lucasgomes\auth_access_service\interfaces\http\response\UserResponse.java
+C:\Users\lucas\OneDrive\Documentos\014 - PORTIFOLIO\auth-access-service\src\main\java\com\lucasgomes\auth_access_service\interfaces\http\UserController.java
